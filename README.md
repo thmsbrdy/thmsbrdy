@@ -1,6 +1,14 @@
 ## Hi, I'm Tom 👋
 
 I'm a business and operations professional at Amazon building toward a career in data engineering and analytics. I'm drawn to roles where data, math, and code are the primary tools for solving business problems.
+
+Background: 5+ years across supply chain, brand development, and seller operations at Amazon — owning data metrics, writing production SQL used in executive reporting, and building internal tools that scale knowledge and automate workflows.
+
+Currently: Deepening my CS foundations (Data Structures & Algorithms) and building portfolio projects in Python and SQL.
+
+Interests: Data pipelines, business analytics, ecommerce data, and the intersection of engineering and business problem-solving.
+
+📍 New York, NY  |  💼 LinkedIn
 <!--
 **thmsbrdy/thmsbrdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
