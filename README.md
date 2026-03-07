@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I'm Tom 👋
 
+I'm a business and operations professional at Amazon building toward a career in data engineering and analytics. I'm drawn to roles where data, math, and code are the primary tools for solving business problems.
 <!--
 **thmsbrdy/thmsbrdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
