@@ -8,7 +8,7 @@ Currently: Deepening my CS foundations (Data Structures & Algorithms) and buildi
 
 Interests: Data pipelines, business analytics, ecommerce data, and the intersection of engineering and business problem-solving.
 
-📍 New York, NY  |  💼 LinkedIn
+📍 New York, NY  |  💼 [LinkedIn](https://linkedin.com/in/thmsbrdy)
 <!--
 **thmsbrdy/thmsbrdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
