@@ -1,6 +1,6 @@
 ## Hi, I'm Tom 👋
 
-I'm a business and operations professional at Amazon with a growing interst in data engineering and analytics. I'm drawn to roles where data, math, and code are central to solving business problems.
+I'm a business and operations professional at Amazon with a growing interest in data engineering and analytics. I'm drawn to roles where data, math, and code are central to solving business problems.
 
 Background: 5+ years across supply chain, business development, and brand operations — owning data metrics, writing SQL queries, and building internal tools that scale knowledge and automate workflows.
 
