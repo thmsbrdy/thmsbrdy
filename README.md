@@ -1,12 +1,12 @@
 ## Hi, I'm Tom 👋
 
-I'm a business and operations professional at Amazon with a growing interest in data engineering and analytics. I'm drawn to roles where data, math, and code are central to solving business problems.
+I'm a business and operations professional at Amazon using data, math, and code to solve problems.
 
-Background: 5+ years across supply chain, business development, and brand operations — owning data metrics, writing SQL queries, and building internal tools that scale knowledge and automate workflows.
+Background: 5+ years across supply chain, business development, and brand operations — designing metrics, writing SQL, and standing up processes. 
 
-Currently: Deepening my CS foundations (Data Structures & Algorithms) and building projects in Python and SQL.
+Currently: Deepening CS foundations (Data Structures & Algorithms) and building with Python and SQL.
 
-Interests: Data pipelines, business analytics, ecommerce data, and the intersection of engineering and business problem-solving.
+Interests: Data pipelines, big data, business analytics, ecommerce, and the intersection of engineering and business.
 
 📍 New York, NY  |  💼 [LinkedIn](https://linkedin.com/in/thmsbrdy)
 <!--
